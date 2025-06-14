@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876189597350",
+    "project_id": "rca-demo-db",
+    "storage_bucket": "rca-demo-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876189597350:android:880c78cc652c3c98d83e67",
+        "android_client_info": {
+          "package_name": "com.example.reseaux_commission_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8uvP5sMzUQlY1ICQI-y_KoPLSP7QRxmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
